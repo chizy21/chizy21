@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.  With interest in Open Source Documentation for various products.
 
-- :mailbox:How to reach me: <a href="mailto:chizy2@gmail.com>Greg Perry</a>
+- :mailbox:How to reach me: chizy2@gmx.com
 
 ---
 
