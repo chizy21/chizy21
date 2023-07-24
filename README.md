@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.  With interest in Open Source Documentation for various products.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GregPerry-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/greg-perry-159288127/)
+- :mailbox:How to reach me: <a href="mailto:chizy2@gmail.com>Greg Perry</a>
 
 ---
 
